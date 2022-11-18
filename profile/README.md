@@ -1,4 +1,5 @@
-# Vow Taxi - A bridge for the archipelago of blockchains
+# Vow Taxi
+### A bridge for the archipelago of blockchains
 
 VowTaxi is technology that allows moving value across blockchains, specifically designed to support the Vow ecosystem
 
